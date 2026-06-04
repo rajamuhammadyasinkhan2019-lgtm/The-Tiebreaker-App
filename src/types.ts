@@ -11,24 +11,34 @@ export interface DecisionInput {
   type: AnalysisType;
 }
 
-export interface ProsConsResult {
+export interface SuccessProbability {
+  option: string;
+  probability: number; // 0 - 100
+  rationale: string;
+}
+
+export interface BaseResult {
+  verdict: string;
+  confidenceScore: number; // 0 - 100
+  successProbabilities?: SuccessProbability[];
+}
+
+export interface ProsConsResult extends BaseResult {
   pros: string[];
   cons: string[];
-  verdict: string;
 }
 
-export interface ComparisonResult {
+export interface ComparisonResult extends BaseResult {
   headers: string[];
   rows: { [key: string]: string }[];
-  verdict: string;
 }
 
-export interface SWOTResult {
+export interface SWOTResult extends BaseResult {
   strengths: string[];
   weaknesses: string[];
   opportunities: string[];
   threats: string[];
-  verdict: string;
 }
 
 export type AnalysisResult = ProsConsResult | ComparisonResult | SWOTResult;
+
