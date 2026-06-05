@@ -120,8 +120,6 @@ Modern UI Components
 
 ---
 
-📸 Screenshots
-
 Decision Analysis Interface
 
 Users can enter a decision, provide context, and select an analysis framework.
