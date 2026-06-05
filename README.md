@@ -175,7 +175,7 @@ This project is licensed under the MIT License.
 
 Muhammad Yasin Khan
 
-Geologist | AI enthusiast| Open-Source Contributor
+Geologist / Geoscience and AI Practitioner| Open-Source Contributor
 
 GitHub: https://github.com/rajamuhammadyasinkhan2019-lgtm
 
