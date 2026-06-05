@@ -6,9 +6,9 @@ The Tiebreaker AI App is an intelligent decision-support application designed to
 
 🚀 Overview
 
-Making important decisions can be challenging when multiple options appear equally attractive. The Tiebreaker AI transforms decision-making into a structured process by combining artificial intelligence with proven analytical frameworks.
+Making important decisions can be challenging when multiple options appear equally attractive. The Tiebreaker AI App transforms decision-making into a structured process by combining artificial intelligence with proven analytical frameworks.
 
-Whether you're choosing between technologies, career paths, business strategies, educational opportunities, or personal projects, The Tiebreaker AI helps you understand not only what decision to make, but why.
+Whether you're choosing between technologies, career paths, business strategies, educational opportunities, or personal projects, The Tiebreaker AI App helps you understand not only what decision to make, but why.
 
 
 ---
@@ -137,7 +137,7 @@ Compare alternatives side-by-side with probability and confidence metrics.
 
 💡 Why This Project?
 
-The Tiebreaker AI began as a simple tie-breaking utility and evolved into a comprehensive decision intelligence platform. The goal is to empower users with structured, explainable, and AI-assisted decision-making tools.
+The Tiebreaker AI App began as a simple tie-breaking utility and evolved into a comprehensive decision intelligence platform. The goal is to empower users with structured, explainable, and AI-assisted decision-making tools.
 
 
 ---
